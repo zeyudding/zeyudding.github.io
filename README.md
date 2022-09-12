@@ -1,6 +1,6 @@
 # Personal Website
 
-Created from the [\*folio theme](https://github.com/bogoli/-folio) 
+Created from the [**al-folio**](https://github.com/alshedivat/al-folio) 
 
 ## Features
 
