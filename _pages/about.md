@@ -38,16 +38,19 @@ Engineer Building N34<br>
 
 I am an assistant professor in the Department of Computer Science at Binghamton University. I received my PhD in Computer Science from Penn State University and BS in Mathematics from Zhejiang University.
 
-My research interests lie in the intersection of **privacy**, **security**, **machine learning** and **algorithmic fairness**. My current research focuses on differential privacy and its interactions with software security, formal verification, statistical inference and numerical optimization.
+My research lies in the intersection of **data privacy**, **software security**, **machine learning** and **algorithmic fairness**. The overarching goal of my work is to protect sensitive personal information from being leaked in unintended ways. My current research focuses on <em>differential privacy</em> and its interactions with software security, formal verification, numerical optimization, statistical inference and machine learning. 
+
+<div class="alert alert-success">
+  <i class="fas fa-solid fa-star"></i> <strong>Hiring:</strong> <b>I have several (fully funded) openings for highly-motivated and outstanding PhD students. If you are interested in working with me, please send me an email with your CV.</b>
+</div>
+
 
 <!-- <p><span style="color:red"><b>I'm looking for highly-motivated and outstanding PhD students. If you are interested in working with me, please send me an email with your CV.</b></span></p>
 
 
 <mark>I'm looking for highly-motivated and outstanding PhD students. If you are interested in working with me, please send me an email with your CV.</mark> -->
 
-<div class="alert alert-success">
-  <i class="fas fa-solid fa-star"></i> <strong>Hiring:</strong> <b>I'm looking for highly-motivated and outstanding PhD students. If you are interested in working with me, please send me an email with your CV.</b>
-</div>
+
 
 <!-- <div class="alert alert-success">
   <i class="fas fa-lightbulb"></i> <strong>Tip:</strong> Some Tip.
@@ -86,5 +89,5 @@ My research interests lie in the intersection of **privacy**, **security**, **ma
 
 #### Professional Activities
 
-* Program Committee: POPL 2023, CCS 2022
-* Reviewer: ICML 2022, ICLR 2022, NeurIPS 2021, LICS 2021, CCS 2019
+* Technical Program Committee: CCS'22, POPL'23
+* Reviewer: CCS'19, LICS'21, NeurIPS'21, TDSC'21, ICLR'22, ICML'22, TPDS'22, ALGO'22
