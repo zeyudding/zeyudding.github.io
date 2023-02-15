@@ -54,7 +54,7 @@ nav_order: 8
 
 #### 学校简介
 
-*以下内容部分节选自中文维基百科 [https://zh.wikipedia.org/wiki/宾汉顿大学](https://zh.wikipedia.org/wiki/%E5%AE%BE%E6%B1%89%E9%A1%BF%E5%A4%A7%E5%AD%A6)*
+*以下部分内容节选自中文维基百科 [https://zh.wikipedia.org/wiki/宾汉顿大学](https://zh.wikipedia.org/wiki/%E5%AE%BE%E6%B1%89%E9%A1%BF%E5%A4%A7%E5%AD%A6)*
 
 
 宾汉顿大学，又名纽约州立大学宾汉顿分校（英语：Binghamton University, State University of New York）是位于美国纽约州的一所公立研究型大学。该校是全纽约州排名最高的公立大学，也是纽约州立大学系统 (State University of New York，简称 SUNY) 中的四个旗舰大学之一。卡耐基教育基金会把此校列为第一级研究型大学 (Research I University)。该校化学系教授史丹利·惠廷安（Stanley Whittingham）于2019年获得诺贝尔化学奖。
