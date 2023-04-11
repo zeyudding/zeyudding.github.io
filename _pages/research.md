@@ -11,9 +11,9 @@ nav_order: 2
 
 My research lies in the intersection of **data privacy**, **software security**, **machine learning** and **algorithmic fairness**. The overarching goal of my work is to protect sensitive personal information from being leaked in unintended ways. My current research focuses on <em>differential privacy</em> and its interactions with software security, formal verification, numerical optimization, statistical inference and machine learning. 
 
-<div class="alert alert-success">
+<!-- <div class="alert alert-success">
   <i class="fas fa-solid fa-star"></i> <strong>Hiring:</strong> <b>I have several (fully funded) openings for highly-motivated and outstanding PhD students. If you are interested in working with me, please send me an email with your CV.</b>
-</div>
+</div> -->
 
 Some of my current projects include:
 

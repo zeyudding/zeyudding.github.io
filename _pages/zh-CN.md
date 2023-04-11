@@ -3,7 +3,7 @@ layout: page
 permalink: /zh-CN/
 title: 中文主页
 description:
-nav: true
+nav: false
 nav_order: 8
 ---
 
