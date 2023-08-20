@@ -11,7 +11,7 @@ nav_order: 3
 
 ----
 
-#### Fall 2022, Fall 202
+#### Fall 2022, 2023
 * [CS480/580T Topics in Data Privacy]({{site.url}}/cs580t-f23)
 
 #### Spring 2023
