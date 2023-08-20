@@ -11,9 +11,10 @@ nav_order: 3
 
 ----
 
-#### Fall 2022
-* CS480/580T Topics in Data Privacy
+#### Fall 2022, Fall 202
+* [CS480/580T Topics in Data Privacy]({{site.url}}/cs580t-f23)
 
 #### Spring 2023
-* [CS471 Programming Languages]({{site.url}}/S23-CS471)
+* CS471 Programming Languages
+<!-- * [CS471 Programming Languages]({{site.url}}/S23-CS471) -->
 
