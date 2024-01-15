@@ -22,6 +22,7 @@ social: true  # includes social icons at the bottom of the page
 Assistant Professor<br>
 Engineering Building N34<br>
 [Department of Computer Science](https://www.binghamton.edu/computer-science/index.html)<br>
+[Department of Mathematics and Statistics (Courtesy)](https://www2.math.binghamton.edu/p/start)<br>
 [Thomas J. Watson College of Engineering and Applied Science](https://www.binghamton.edu/watson/)<br>
 [Binghamton University](https://www.binghamton.edu/)<br>
 :phone: [(+1) 607-777-4824](tel:16077774824)<br>
@@ -62,7 +63,7 @@ My research lies in the intersection of **data privacy**, **software security**,
 
 ---
 
-#### Selected Publications
+<!-- #### Selected Publications
 
 * [VLDBJ'22] Free Gap Estimates from the Exponential Mechanism, Sparse Vector, Noisy Max and Related Algorithms, with Yuxin Wang, Yingtai Xiao, Danfeng Zhang and Daniel Kifer.
 
@@ -74,20 +75,27 @@ My research lies in the intersection of **data privacy**, **software security**,
 
 * [CCS'18] Detecting Violations of Differential Privacy, with Yuxin Wang, Guanhong Wang, Danfeng Zhang and Daniel Kifer. **Best paper award.**
 
----
+--- -->
 
 #### Honors and Awards
 
-* Best Paper Award, ACM Conference on Computer and Communications Security, 2018
-* Graduate Research Award, Penn State University, 2019
-* The Caspar Bowden PET Award Runner-Up, 2019
-* Best Paper Award Runner-Up, ACM Conference on Computer and Communications Security, 2020
-* Graduate Teaching Award, Penn State University, 2021
-* Best Paper Award Runner-Up, ACM Conference on Computer and Communications Security, 2021
+* CCS Outstanding Paper Award, 2018
+<!-- * Graduate Research Award, Penn State University, 2019 -->
+* The Caspar Bowden PET Award, Runner-Up, 2019
+* CCS Best Paper Award, Runner-Up, 2020
+<!-- * Graduate Teaching Award, Penn State University, 2021 -->
+* CCS Best Paper Award, Runner-Up, 2021
 
 ---
 
-#### Professional Activities
+#### Grants
+
+My research is supported by NSF [2317233](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2317233).
+
+
+---
+
+<!-- #### Professional Activities
 
 * Technical Program Committee: CCS'22, POPL'23
-* Reviewer: CCS'19, LICS'21, NeurIPS'21, TDSC'21, ICLR'22, ICML'22, TPDS'22, ALGO'22
+* Reviewer: CCS'19, LICS'21, NeurIPS'21, TDSC'21, ICLR'22, ICML'22, TPDS'22, ALGO'22 -->
