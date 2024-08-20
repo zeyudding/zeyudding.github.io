@@ -21,7 +21,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 Assistant Professor<br>
 Engineering Building N34<br>
-[Department of Computer Science](https://www.binghamton.edu/computer-science/index.html)<br>
+[School of Computing](https://www.binghamton.edu/computer-science/index.html)<br>
 [Department of Mathematics and Statistics (Courtesy)](https://www2.math.binghamton.edu/p/start)<br>
 [Thomas J. Watson College of Engineering and Applied Science](https://www.binghamton.edu/watson/)<br>
 [Binghamton University](https://www.binghamton.edu/)<br>
@@ -37,9 +37,10 @@ Engineering Building N34<br>
 <br>Email: dding1 at binghamton dot edu
 </p> -->
 
-I am an assistant professor in the Department of Computer Science at Binghamton University. I received my PhD in Computer Science from Penn State University and BS in Mathematics from Zhejiang University.
+I am an assistant professor in the School of Computing at Binghamton University. I received my PhD in Computer Science from Penn State University and BS in Mathematics from Zhejiang University.
 
-My research lies in the intersection of **data privacy**, **software security**, **machine learning** and **algorithmic fairness**. The overarching goal of my work is to protect sensitive personal information from being leaked in unintended ways. My current research focuses on <em>differential privacy</em> and its interactions with software security, formal verification, numerical optimization, statistical inference and machine learning. 
+<!-- My research lies in the intersection of **data privacy**, **software security**, **machine learning** and **algorithmic fairness**. The overarching goal of my work is to protect sensitive personal information from being leaked in unintended ways. My current research focuses on <em>differential privacy</em> and its interactions with software security, formal verification, numerical optimization, statistical inference and machine learning. -->
+My research lies in the intersection of **data privacy**, **statistical disclosure control**, **formal methods** and **machine learning**. The overarching goal of my work is to protect sensitive personal information from being leaked in unintended ways. My current research focuses on <em>differential privacy</em> and its interactions with formal verification, numerical optimization, privacy-preserving statistical inference and machine learning. 
 
 <div class="alert alert-success">
   <i class="fas fa-solid fa-star"></i> <strong>Hiring:</strong> <b>I'm actively looking for highly-motivated PhD students. If you are interested in working with me, please contact me via email.</b>
