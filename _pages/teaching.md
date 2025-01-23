@@ -7,6 +7,18 @@ nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+## Current
+#### Spring 2025
+* [CS471 Programning Languages]({{site.url}}/cs471)
 
-Organize your courses by years, topics, or universities, however you like!
+## Past
+
+#### Fall 2024
+* CS561 Topics in Data Privacy
+
+#### Fall 2022, 2023
+* CS480/580T Topics in Data Privacy
+
+#### Spring 2023, 2024
+<!-- * CS471 Programming Languages -->
+* CS471 Programming Languages
