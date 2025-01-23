@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /research/
-title: research
-description: Materials for courses you taught. Replace this text with your description.
+title: Research
+description: 
 nav: true
 nav_order: 2
 ---
