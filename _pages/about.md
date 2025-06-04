@@ -32,9 +32,9 @@ I am an assistant professor in the School of Computing at Binghamton University.
 <!-- My research lies in the intersection of **data privacy**, **software security**, **machine learning** and **algorithmic fairness**. The overarching goal of my work is to protect sensitive personal information from being leaked in unintended ways. My current research focuses on <em>differential privacy</em> and its interactions with software security, formal verification, numerical optimization, statistical inference and machine learning. -->
 My research lies in the intersection of **data privacy**, **statistical disclosure control**, **formal methods** and **machine learning**. The overarching goal of my work is to protect sensitive personal information from being leaked in unintended ways. My current research focuses on <em>differential privacy</em> and its interactions with formal verification, numerical optimization, privacy-preserving statistical inference and machine learning. 
 
-<div class="alert alert-success">
+<!-- <div class="alert alert-success">
   <i class="fas fa-solid fa-star"></i> <strong>Hiring:</strong> <b>I'm actively looking for highly-motivated PhD students. If you are interested in working with me, please contact me via email.</b>
-</div>
+</div> -->
 
 
 <!-- <p><span style="color:red"><b>I'm looking for highly-motivated PhD students. If you are interested in working with me, please send me an email with your CV.</b></span></p> -->
