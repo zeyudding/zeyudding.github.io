@@ -7,16 +7,11 @@ nav: true
 nav_order: 6
 ---
 
-## Current
-#### Fall 2025
-* [CS461/561 Topics in Data Privacy]({{site.url}}/cs561)
+### * [CS471 Programming Languages]({{site.url}}/cs471)
+#### Spring 2023--2026
 
-## Past
+### * [CS571 Programming Languages]({{site.url}}/cs571)
+#### Spring 2026
 
-#### Fall 2022, 2023, 2024
-* CS461/561 Topics in Data Privacy
-
-
-#### Spring 2023, 2024, 2025
-<!-- * CS471 Programming Languages -->
-* CS471 Programming Languages
+### * [CS461/561 Topics in Data Privacy]({{site.url}}/cs561)
+#### Fall 2022--2025
