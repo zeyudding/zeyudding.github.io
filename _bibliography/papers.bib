@@ -148,3 +148,142 @@
   location = {Toronto, Canada},
   series = {CCS '18}
 }
+
+@article{FreeGapEstimates,
+author={Ding, Zeyu
+and Wang, Yuxin
+and Xiao, Yingtai
+and Wang, Guanhong
+and Zhang, Danfeng
+and Kifer, Daniel},
+title={Free gap estimates from the exponential mechanism, sparse vector, noisy max and related algorithms},
+journal={The VLDB Journal},
+year={2023},
+month={Jan},
+day={01},
+volume={32},
+number={1},
+pages={23-48},
+abstract={Private selection algorithms, such as the exponential mechanism, noisy max and sparse vector, are used to select items (such as queries with large answers) from a set of candidates, while controlling privacy leakage in the underlying data. Such algorithms serve as building blocks for more complex differentially private algorithms. In this paper we show that these algorithms can release additional information related to the gaps between the selected items and the other candidates for free (i.e., at no additional privacy cost). This free gap information can improve the accuracy of certain follow-up counting queries by up to 66{\%}. We obtain these results from a careful privacy analysis of these algorithms. Based on this analysis, we further propose novel hybrid algorithms that can dynamically save additional privacy budget.},
+issn={0949-877X},
+doi={10.1007/s00778-022-00728-2},
+url={https://doi.org/10.1007/s00778-022-00728-2}
+}
+
+@article{reconstruction,
+      title={Reconstruction Attacks on Aggressive Relaxations of Differential Privacy}, 
+      author={Prottay Protivash and John Durrell and Zeyu Ding and Danfeng Zhang and Daniel Kifer},
+      year={2024},
+      journal={The Journal of Privacy and Confidentiality}
+}
+
+@article{Ding25, 
+title={Avoiding Floating-Point Side Channels in the Report Noisy Max with Gap Mechanism}, volume={15}, url={https://journalprivacyconfidentiality.org/index.php/jpc/article/view/894}, DOI={10.29012/jpc.894}, number={3}, journal={Journal of Privacy and Confidentiality}, author={Ding, Zeyu and Durrell, John and Kifer, Daniel and Protivash, Prottay and Wang, Guanhong and Wang, Yuxin and Xiao, Yingtai and Zhang, Danfeng}, year={2025}, month={Dec.} 
+}
+
+@article{he2026,
+      title={Accurate and Scalable Matrix Mechanisms via Divide and Conquer}, 
+      author={Guanlin He and Yingtai Xiao and Jiamu Bai and Xin Gu and Zeyu Ding and Wenpeng Yin and Daniel Kifer},
+      year={2026},
+      eprint={2604.00868},
+      journal={arXiv/2604.00868},
+      primaryClass={cs.DB},
+      url={https://arxiv.org/abs/2604.00868}, 
+}
+
+
+@article{More2026,
+author={More, Vrushket
+and Lu, Lyra
+and Ding, Zeyu
+and Xi, Zhaohan
+and Mizia, Seth
+and Guo, Nancy L.},
+title={TheraMind: a multi-LLM ensemble for accelerating drug repurposing in lung cancer via case report mining},
+journal={npj Precision Oncology},
+year={2026},
+month={Jan},
+day={29},
+volume={10},
+number={1},
+pages={95},
+abstract={Published clinical case reports are a valuable yet underutilized source of evidence for drug repurposing. However, systematically identifying relevant reports remains a challenge due to the volume of literature and the diversity of candidate compounds. We present TheraMind, an AI system that leverages large language models (LLMs) to automate the identification and analysis of case reports supporting potential drug repurposing for non-small cell lung cancer (NSCLC). Our system screened 10,023 PubMed-indexed case reports across 18 candidate drugs using coordinated data extraction and standardized four-question prompts assessing diagnosis, drug administration, discontinuation, and clinical outcomes. We employed three evaluation strategies, rule-based classifiers, single-model validators, and a majority-vote ensemble integrating GPT-40-mini, Gemini-2.0-Flash, and LLaMA-3-8B. The ensemble approach achieved 92{\%} recall and 99.7{\%} specificity in detecting clinically relevant reports. Structured outputs included patient demographics, therapeutic responses, and case summaries. This LLM-driven framework offers a scalable approach to accelerate drug repurposing by mining real-world evidence from unstructured clinical literature.},
+issn={2397-768X},
+doi={10.1038/s41698-025-01265-1},
+url={https://doi.org/10.1038/s41698-025-01265-1}
+}
+
+@ARTICLE{Bhajaj2025,
+  title    = "{ClinSegAI}: A post-processing framework for superior
+              histopathology segmentation accuracy, radiomics feature
+              preservation, and quantitative analysis",
+  author   = "Bhajaj, Prem and Nalubolu, Saiprakash and Gurram, Bhargavram and
+              Srinivas, Mansi and Choudhary, Rakesh and Dai, Weiying and Wang,
+              Ling and Jamaspishvili, Tamara and Ding, Zeyu and Guo, Nancy L",
+  abstract = "Accurate cell segmentation underpins reliable radiomics and
+              multi-omic analysis in digital pathology, yet foundation-scale
+              models often output masks that require further refinement for
+              clinical use. This study presents ClinSegAI, a post-processing
+              tool designed to refine cell segmentation outputs from the
+              BiomedParse foundation model to preserve radiomic feature
+              integrity in hematoxylin and eosin (H\&E) stained whole slide
+              images. The proposed pipeline analyzes whole-slide images,
+              applies preprocessing, and uses BiomedParse for initial nucleus
+              segmentation, followed by a refinement algorithm that corrects
+              segmentation boundaries and merges or splits regions as needed to
+              maintain morphological fidelity. ClinSegAI was evaluated on lung
+              and other cancer pathology slides against six alternative
+              segmentation approaches, including conventional digital pathology
+              software and state-of-the-art deep learning models. It achieved
+              the highest average Dice Similarity Coefficient (DSC) - near 0.80
+              and substantially reduced segmentation errors, with the lowest
+              95th-percentile Hausdorff distance (HD95) and average symmetric
+              surface distance (ASSD) among all methods. Crucially, the refined
+              segmentations preserved radiomic feature distributions (shape,
+              intensity, and texture metrics) closer to ground truth, assessed
+              with pooled two-sample t-statistics, improving the fidelity of
+              quantitative features for downstream analysis. These improvements
+              enable more reliable integration of histopathology with other
+              modalities, for example, correlating precise spatial
+              segmentations with spatial transcriptomic data, improving
+              prognostic models, characterizing immune infiltration in the
+              tumor microenvironment, and enhancing treatment response
+              prediction from tissue images. ClinSegAI demonstrates how
+              targeted post-processing built on a foundational visual
+              transformer can bolster segmentation accuracy and radiomics
+              reliability in computational pathology.",
+  journal  = "Comput Biol Med",
+  volume   =  199,
+  pages    = "111298",
+  month    =  nov,
+  year     =  2025,
+  address  = "United States",
+  keywords = "Deep-learning; Histopathology; Lung cancer; Postprocessing;
+              Radiomics; Segmentation; Spatial-transcriptomics; Visual
+              transformer",
+  language = "en"
+}
+
+
+@inproceedings{DP4SQL,
+author = {Cascio, Andrew and Tong, KinChin and Kifer, Daniel and Ding, Zeyu  and Zhang, Danfeng},
+title = {DP4SQL: Differentially Private SQL with Flexible Privacy Policies},
+month = {},
+year = {2026},
+publisher = {Association for Computing Machinery},
+booktitle = {CCS '26}
+}
+
+@article{RPP,
+author={
+He, Guanlin
+and Xiao, Yingtai
+and Toksoz, Levent
+and Ding, Zeyu
+and Zhang, Danfeng
+and Kifer, Daniel},
+title={ResidualPlanner+: a scalable matrix mechanism for marginals and beyond},
+journal={The VLDB Journal},
+month={},
+year={2026}
+}
