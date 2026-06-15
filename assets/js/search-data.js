@@ -9,19 +9,12 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-publications",
-          title: "Publications",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/publications/";
-          },
-        },{id: "nav-research",
+  },{id: "nav-research",
           title: "Research",
-          description: "",
+          description: "Research Projects",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/research/";
+            window.location.href = "/projects/";
           },
         },{id: "nav-teaching",
           title: "Teaching",
@@ -29,6 +22,13 @@ ninja.data = [{
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
+          },
+        },{id: "nav-publications",
+          title: "Publications",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/publications/";
           },
         },{id: "nav-cv",
           title: "CV",
@@ -445,6 +445,16 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-differentially-private-sql-database-systems",
+          title: 'Differentially Private SQL Database Systems',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/dpsql/";
+            },},{id: "projects-privacy-preserving-machine-learning",
+          title: 'Privacy Preserving Machine Learning',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/ppml/";
             },},{
         id: 'social-email',
         title: 'email',
