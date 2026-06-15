@@ -14,27 +14,27 @@ cv:
   #   - network: LinkedIn
   #     username: example
 
-  # address:
-  #   street: EB N34
-  #   city: Binghamton
-  #   # region: NY
-  #   postalCode: CA 94115
-  #   countryCode: US
+  address:
+    street: EB N34, Binghamton University
+    city: Binghamton
+    region: NY
+    postalCode: 13905
+    countryCode: US
 
   # sections:
   #   Education:
-  #     - institution: University of Zurich
-  #       location: Zurich, Switzerland
-  #       url: https://www.uzh.ch/
-  #       area: Physics
+  #     - institution: Penn State University
+  #       location: State College, PA
+  #       # url: https://www.uzh.ch/
+  #       area: Computer Science
   #       studyType: PhD
-  #       start_date: 1900
-  #       end_date: 1905
-  #       score: ""
-  #       courses: "Theory of Relativity"
-  #       highlights:
-  #         - Description 1.
-  #         - Description 2.
+  #       start_date: 2017
+  #       end_date: 2022
+  #       # score: ""
+        # courses: "Theory of Relativity"
+        # highlights:
+        #   - Description 1.
+        #   - Description 2.
 
   #     - institution: Eidgenössische Technische Hochschule
   #       location: Zurich, Switzerland
