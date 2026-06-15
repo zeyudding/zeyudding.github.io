@@ -13,3 +13,6 @@ This page displays a collection of courses with detailed schedules, materials, a
 {% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
 
 {% include courses.liquid %}
+
+### * [CS461/561 Topics in Data Privacy]({{site.url}}/cs561)
+#### Fall 2022--2025
